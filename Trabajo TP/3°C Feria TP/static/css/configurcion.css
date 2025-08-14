@@ -97,4 +97,6 @@ nav {
 .login-btn:hover {
     background-color:#6b6767;
 }
-
+.codigo{
+    width: 200px;
+}
